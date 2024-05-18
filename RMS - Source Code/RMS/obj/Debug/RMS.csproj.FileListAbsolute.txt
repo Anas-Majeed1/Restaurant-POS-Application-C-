@@ -1,0 +1,869 @@
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Guna.UI2.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.frmlogin.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.frmMain.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.SampleAdd.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.SampleView.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.View.frmCategoryView.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.Model.frmCategoryAdd.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.View.frmTable.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.Model.frmTableAdd.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.Model.frmProductAdd.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.Model.frmStaffAdd.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.View.frmProductView.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\obj\Debug\RMS.View.frmStaffView.resources
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Azure.Core.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Azure.Identity.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Buffers.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Memory.Data.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Memory.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Text.Json.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.ValueTuple.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Azure.Core.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Azure.Identity.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Buffers.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Memory.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Memory.Data.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Text.Json.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\System.ValueTuple.xml
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\source\repos\RMS\RMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\RMS.exe.config
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\RMS.exe
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\RMS.pdb
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Azure.Core.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Azure.Identity.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Guna.UI2.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Buffers.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Memory.Data.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Memory.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Text.Json.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.ValueTuple.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Azure.Core.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Azure.Identity.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Buffers.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Memory.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Memory.Data.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Text.Json.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\System.ValueTuple.xml
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.frmlogin.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.frmMain.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCategoryAdd.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.Model.frmProductAdd.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.Model.frmStaffAdd.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableAdd.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.SampleAdd.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.SampleView.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.View.frmCategoryView.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.View.frmProductView.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.View.frmStaffView.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.View.frmTable.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.exe
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.pdb
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.View.frmPOS.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.Model.ucProduct.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.View.frmKitchenView.resources
+D:\Advance Programming Techniques\RMS\RMS\RMS\obj\Debug\RMS.Model.frmBillList.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Azure.Identity.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Guna.UI2.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Buffers.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.ValueTuple.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Azure.Identity.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Buffers.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\System.ValueTuple.xml
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmlogin.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmMain.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmBillList.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCategoryAdd.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmProductAdd.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmStaffAdd.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableAdd.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.ucProduct.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleAdd.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleView.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmCategoryView.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmKitchenView.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmPOS.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmProductView.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmStaffView.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmTable.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.Reports.frmSaleByCategory.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmReports.resources
+C:\Users\DelL\source\repos\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmAddCustomer.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Azure.Identity.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Guna.UI2.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Buffers.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.ValueTuple.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Azure.Identity.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Buffers.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\System.ValueTuple.xml
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmlogin.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmMain.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmAddCustomer.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmBillList.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCategoryAdd.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmProductAdd.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmStaffAdd.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableAdd.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.ucProduct.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.Reports.frmSaleByCategory.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleAdd.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleView.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmCategoryView.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmKitchenView.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmPOS.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmProductView.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmReports.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmStaffView.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmTable.resources
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\Ali Hassnain\Pictures\RMS\RMS\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Identity.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Guna.UI2.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Buffers.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.ValueTuple.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Identity.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Buffers.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.ValueTuple.xml
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmlogin.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmMain.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmAddCustomer.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmBillList.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCategoryAdd.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmProductAdd.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmStaffAdd.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableAdd.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.ucProduct.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Reports.frmSaleByCategory.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleAdd.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleView.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmCategoryView.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmKitchenView.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmPOS.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmProductView.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmReports.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmStaffView.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmTable.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableSelect.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmWaiterSelect.resources
+C:\Users\Zain Ali\Downloads\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCheckout.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Identity.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Guna.UI2.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Buffers.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.ValueTuple.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Identity.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Buffers.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.ValueTuple.xml
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmlogin.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmMain.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmAddCustomer.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmBillList.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCategoryAdd.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCheckout.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmProductAdd.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmStaffAdd.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableAdd.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableSelect.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmWaiterSelect.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.ucProduct.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Reports.frmSaleByCategory.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleAdd.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleView.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmCategoryView.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmKitchenView.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmPOS.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmProductView.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmReports.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmStaffView.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmTable.resources
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\DelL\source\repos\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.pdb
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\RMS.pdb
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Identity.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Guna.UI2.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Buffers.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.ValueTuple.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\stdole.dll
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.xml
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.xml
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.xml
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.exe.config
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmlogin.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmMain.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmPrint.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmAddCustomer.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmBillList.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCategoryAdd.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCheckout.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmProductAdd.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmStaffAdd.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableAdd.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableSelect.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmWaiterSelect.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.ucProduct.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.Reports.frmSaleByCategory.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleAdd.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleView.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmCategoryView.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmKitchenView.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmPOS.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmProductView.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmReports.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmStaffView.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmTable.resources
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.exe
+C:\Users\Ali Hassnain\Pictures\Saved Pictures\RMS (1)\RMS\RMS\RMS\RMS\obj\Debug\RMS.pdb
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe.config
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\RMS.exe
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\RMS.pdb
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Azure.Identity.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.Shared.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Guna.UI2.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Components.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Buffers.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Numerics.Vectors.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Security.AccessControl.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Permissions.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Principal.Windows.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Encodings.Web.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.ValueTuple.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\stdole.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Azure.Core.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\Microsoft.Identity.Client.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Memory.Data.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\bin\Debug\System.Text.Json.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.SuggestedBindingRedirects.cache
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.exe.config
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmlogin.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmMain.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.frmPrint.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmAddCustomer.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmBillList.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCategoryAdd.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmCheckout.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmProductAdd.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmStaffAdd.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableAdd.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmTableSelect.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.frmWaiterSelect.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Model.ucProduct.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.Reports.frmSaleByCategory.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleAdd.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.SampleView.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmCategoryView.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmKitchenView.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmPOS.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmProductView.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmReports.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmStaffView.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.View.frmTable.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.exe
+E:\Study Material\5th semester\Projects\RMS\RMS\RMS\RMS\obj\Debug\RMS.pdb
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\RMS.exe.config
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\RMS.exe
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\RMS.pdb
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Azure.Core.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Azure.Identity.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.Shared.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Guna.UI2.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Components.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.Identity.Client.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Buffers.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Memory.Data.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Memory.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Numerics.Vectors.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Security.AccessControl.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Security.Permissions.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Security.Principal.Windows.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Text.Encodings.Web.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Text.Json.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.ValueTuple.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\stdole.dll
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Azure.Core.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\Microsoft.Identity.Client.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Memory.Data.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\System.Text.Json.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.csproj.SuggestedBindingRedirects.cache
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.exe.config
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.frmlogin.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.frmMain.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.frmPrint.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Model.frmAddCustomer.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Model.frmBillList.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Model.frmCategoryAdd.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Model.frmCheckout.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Model.frmProductAdd.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Model.frmStaffAdd.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Model.frmTableAdd.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Model.frmTableSelect.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Model.frmWaiterSelect.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Model.ucProduct.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.Reports.frmSaleByCategory.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.SampleAdd.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.SampleView.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.View.frmCategoryView.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.View.frmKitchenView.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.View.frmPOS.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.View.frmProductView.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.View.frmReports.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.View.frmStaffView.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.View.frmTable.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.csproj.CopyComplete
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.exe
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.pdb
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.View.frmHome.resources
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\RMS.exe.manifest
+E:\Study Material\5th semester\Projects\RMS\RMS\bin\Debug\RMS.application
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.TrustInfo.xml
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.exe.manifest
+E:\Study Material\5th semester\Projects\RMS\RMS\obj\Debug\RMS.application
